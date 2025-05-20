@@ -1,6 +1,6 @@
 package com.edutech.inscripciones.service;
 
-import com.edutech.inscripciones.entity.Inscripcion;
+import com.edutech.inscripciones.model.Inscripcion;
 import com.edutech.inscripciones.repository.InscripcionRepository;
 import org.springframework.stereotype.Service;
 

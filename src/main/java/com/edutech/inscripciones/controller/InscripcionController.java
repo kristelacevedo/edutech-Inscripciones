@@ -1,6 +1,6 @@
 package com.edutech.inscripciones.controller;
 
-import com.edutech.inscripciones.entity.Inscripcion;
+import com.edutech.inscripciones.model.Inscripcion;
 import com.edutech.inscripciones.service.InscripcionService;
 import org.springframework.web.bind.annotation.*;
 

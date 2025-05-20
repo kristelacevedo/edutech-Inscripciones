@@ -1,4 +1,4 @@
-package com.edutech.inscripciones.entity;
+package com.edutech.inscripciones.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
